@@ -1,6 +1,7 @@
-# 安装环境
+# 安装运行环境
 - 安装python 3
 - pip install -v openpyxl==2.3.0
+- pip install pandas
 
 # 运行
 1.导出enableq文件 Result*.csv
