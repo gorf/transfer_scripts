@@ -1,4 +1,9 @@
-pip install -v openpyxl==2.3.0
+# 安装环境
+- 安装python 3
+- pip install -v openpyxl==2.3.0
+
+
+# 运行
 1.导出enableq文件 Result*.csv
 2.拷贝到脚本文件夹
 3.修改enableq2xls.ini文件，enableq_file一行
